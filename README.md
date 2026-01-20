@@ -52,10 +52,6 @@ This is not just a standard calculator game. It is a fully event-driven applicat
     java Main
     ```
 
-## 📸 Screenshots
-
-*(You can add screenshots here later if you wish)*
-
 ## 🔮 Future Improvements
 *   [ ] Add database connectivity (SQL) to save high scores permanently.
 *   [ ] Implement network socket programming for online multiplayer.
